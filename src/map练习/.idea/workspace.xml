@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1b04af0-d13d-49d3-ae13-65483e83f1c1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1ZFFWCSob0wsT1jHjeU8oSNZsiZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build map练习 (1)">
+    <configuration name="go build map练习 (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="map练习" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/job317.2.go" />
+      <package value="map练习" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build map练习" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="map练习" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/job317.1.go" />
+      <package value="map练习" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build map练习 (1)" />
+        <item itemvalue="Go Build.go build map练习" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="358" y="0" key="#go_build_map练习" timestamp="1584428552211">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="358" y="0" key="#go_build_map练习/0.0.1280.680@0.0.1280.680" timestamp="1584428552211" />
+    <state x="358" y="0" key="#go_build_map练习_(1)" timestamp="1584428568627">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="358" y="0" key="#go_build_map练习_(1)/0.0.1280.680@0.0.1280.680" timestamp="1584428568627" />
+    <state width="1237" height="109" key="GridCell.Tab.0.bottom" timestamp="1584445524928">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="109" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584445524928" />
+    <state width="1237" height="109" key="GridCell.Tab.0.center" timestamp="1584445524928">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="109" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584445524928" />
+    <state width="1237" height="109" key="GridCell.Tab.0.left" timestamp="1584445524927">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="109" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584445524927" />
+    <state width="1237" height="109" key="GridCell.Tab.0.right" timestamp="1584445524928">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="109" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584445524928" />
+  </component>
+</project>

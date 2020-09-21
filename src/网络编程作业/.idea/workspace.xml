@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6b1c214-3cf7-4a94-a8c8-ca1da48209f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1bDPzXkIVrax5xfng5buhU62h8v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GoProjects\src\网络编程作业" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build job0526.2.go">
+    <configuration name="go build 练习1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="网络编程作业" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/练习1.go" />
+      <package value="网络编程作业" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 练习2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="网络编程作业" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/练习2.go" />
+      <package value="网络编程作业" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build job0509.1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="网络编程作业" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/job0509.1.go" />
+      <package value="网络编程作业" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build job0526.2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="网络编程作业" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/job0526.2.go" />
+      <package value="网络编程作业" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 网络编程作业" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="网络编程作业" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/job0604.1.go" />
+      <package value="网络编程作业" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build job0526.2.go" />
+        <item itemvalue="Go Build.go build 练习1.go" />
+        <item itemvalue="Go Build.go build 练习2.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="110" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591583548462">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="110" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1591583548462" />
+    <state x="369" y="10" key="#go_build_job0429.1.go" timestamp="1588164169488">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="369" y="10" key="#go_build_job0429.1.go/0.0.1280.680@0.0.1280.680" timestamp="1588164169488" />
+    <state x="358" y="2" key="#go_build_job0430.1.go" timestamp="1588675581005">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="358" y="2" key="#go_build_job0430.1.go/0.0.1280.680@0.0.1280.680" timestamp="1588675581005" />
+    <state x="358" y="2" key="#go_build_练习2.go" timestamp="1589112650420">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="358" y="2" key="#go_build_练习2.go/0.0.1280.680@0.0.1280.680" timestamp="1589112650420" />
+    <state x="358" y="0" key="#go_build_网络编程作业" timestamp="1591506010636">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="358" y="0" key="#go_build_网络编程作业/0.0.1280.680@0.0.1280.680" timestamp="1591506010636" />
+    <state x="358" y="0" key="#go_build_网络编程作业_(1)" timestamp="1588853316080">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="358" y="0" key="#go_build_网络编程作业_(1)/0.0.1280.680@0.0.1280.680" timestamp="1588853316080" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1588164098140">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588164098140" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1592182335185">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592182335185" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1592182335185">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1592182335185" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1592182335185">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1592182335185" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1592182335185">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1592182335185" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1588168990509">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588168990509" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1588168990509">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1588168990509" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1588168990508">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1588168990508" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1588168990509">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1588168990509" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1588164100742">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1588164100742" />
+  </component>
+</project>

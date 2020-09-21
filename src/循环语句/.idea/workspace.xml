@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43f321a6-fe2d-4366-99b6-77744e2d3319" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1YbqmOkiH7Ijt2Xj2ejJCXCgufp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build wuyou (1)">
+    <configuration name="go build job310.2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="wuyou" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/job310.2.go" />
+      <package value="wuyou" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build wuyou (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="wuyou" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/job310.4.go" />
+      <package value="wuyou" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build wuyou (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="wuyou" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/job310.1.go" />
+      <package value="wuyou" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build wuyou (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="wuyou" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/试着.go" />
+      <package value="wuyou" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build wuyou" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="wuyou" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/job310.3.go" />
+      <package value="wuyou" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build wuyou (1)" />
+        <item itemvalue="Go Build.go build wuyou" />
+        <item itemvalue="Go Build.go build job310.2.go" />
+        <item itemvalue="Go Build.go build wuyou (2)" />
+        <item itemvalue="Go Build.go build wuyou (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="3" key="#GOROOT" timestamp="1583221823225">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="3" key="#GOROOT/0.0.1280.680@0.0.1280.680" timestamp="1583221823225" />
+    <state x="357" y="0" key="#go_build_wuyou" timestamp="1583832250674">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="357" y="0" key="#go_build_wuyou/0.0.1280.680@0.0.1280.680" timestamp="1583832250674" />
+    <state x="357" y="0" key="#go_build_wuyou_(1)" timestamp="1583832609907">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="357" y="0" key="#go_build_wuyou_(1)/0.0.1280.680@0.0.1280.680" timestamp="1583832609907" />
+    <state x="357" y="0" key="#go_build_wuyou_(2)" timestamp="1583831905098">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="357" y="0" key="#go_build_wuyou_(2)/0.0.1280.680@0.0.1280.680" timestamp="1583831905098" />
+    <state x="357" y="0" key="#go_build_wuyou_(3)" timestamp="1583841480858">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="357" y="0" key="#go_build_wuyou_(3)/0.0.1280.680@0.0.1280.680" timestamp="1583841480858" />
+    <state x="357" y="0" key="#go_build_wuyou_(4)" timestamp="1583406692748">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="357" y="0" key="#go_build_wuyou_(4)/0.0.1280.680@0.0.1280.680" timestamp="1583406692748" />
+    <state x="357" y="0" key="#go_build_wuyou_(5)" timestamp="1583484646123">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="357" y="0" key="#go_build_wuyou_(5)/0.0.1280.680@0.0.1280.680" timestamp="1583484646123" />
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1583845735805">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583845735805" />
+    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1583845735804">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583845735804" />
+    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1583845735804">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583845735804" />
+    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1583845735805">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583845735805" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1583845735806">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583845735806" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1583845735805">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1583845735805" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1583845735805">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1583845735805" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1583845735806">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1583845735806" />
+  </component>
+</project>
